@@ -1,0 +1,51 @@
+私はカナダ出身です:I'm ○○○○ Canada_from_go_start_like
+私はりんごを持っていません:I don't ○○○○ apple_have_am_go_like
+私はサッカーボールを持っていません:I don't ○○○○ soccerball_have_go_live_start
+私は東京に住んでいます:I ○○○○ in Tokyo_live_have_love_rive
+あれはなんですか？:What ○○ that_is_are_live_si
+あなたはサッカーが好きですか？:Do you ○○○○ soccer?_like_love_is_live
+それは新しい自転車です:It's a ○○○ bike_new_live_start_neww
+それは犬です:It ○○ a dog_is_are_am_is
+私は毎日野球をします:I play baseball ○○○○○ day_every_evely_evly_evelly
+あなたはペットを飼っていますか？:Do you ○○○○ a pet?_have_is_this_that
+私は牛乳を飲みません:I don't ○○○○○ milk_drink_dlink_drinc_dlinc
+私は日本語を勉強します:I ○○○○○ Japanese_study_game_play_stady
+このコンピューターを使って: Use ○○○○ computer_this_that_is_there
+ここにきて:Come ○○○○_here_like_live_hera
+私の鉛筆を持っていって:○○○○ my pencil_take_Take_have_use
+良い生徒になりなさい:Be a ○○○○ student_good_like_live_love
+歌を歌いましょう:Let's ○○○○ a song_sing_song_singer_uta
+早く歩きましょう:Let's walk ○○○○_fast_fest_fasts_run
+あなたは今何をしていますか？:What are you ○○○○○ now?_doing_do_play_pley
+私は今勉強していません:I'm not ○○○○○○○○ now_studying_study_stady_stedy
+私たちは今英語の練習をしています:We are ○○○○○○ English_practicing_practcis_study_stady
+彼は今サッカーをしています:He's ○○○○ soccer now_playing_play_pleying_play
+私は昨日テニスをしました:I ○○○○ tennis yesterday_played_play_pley_playing
+彼は昨日英語の勉強をしました:He ○○○○ English yesterday_studied_study_stady_studying
+私は昨日、彼を話した:I ○○○○ with him yesterday_talked_talk_speach_speak
+私はピアノを弾くことができる:I ○○○ play the piano_can_go_cen_good
+彼は速く走ることができる:He can run ○○○○_fast_fest_spead_faster
+私はとても上手にスケートができます:I can skate very ○○○○_well_good_like_eall
+あなたはここで泳ぐことができます:You are swim ○○○○_here_this_that_hare
+あなたは英語を話すことができますか？:Can you ○○○○ English_speak_speac_study_stady
+あなたは野球ができますか？:Can you ○○○○ baseball_play_pley_go_well
+私はカレーを作ることができません:I can't ○○○○ curry_make_meke_play_show
+彼女は泳ぐことができません:She ○○○ not swim_can_play_cen_swimming
+窓を開けてもいいですか？:Can I ○○○○ the window?_open_play_talk_do
+家に帰ってもいいですか？:Can I ○○ home?_go_play_do_good
+手伝ってくれますか？:Can you ○○○○ me?_help_herp_cen_have
+ドアを閉めてもいいですか？:Can I ○○○○ the door?_close_open_closu_help
+このペンを使ってもいいですか？:Can I ○○○○ this pen?_use_do_help_usu
+これはなんですか？:What is ○○○○_this_that_do_play
+それは新しい机です:It's a ○○○ desk_new_start_neew_open
+私は車が欲しいです:I ○○○○ a car_want_went_good_buy
+あなたは理科を勉強します:You ○○○○ science _study_stady_play_do
+あなたは英語を勉強をしますか？:Do you ○○○○ English?_study_stady_stedy_do
+私はサッカーをしません:I don't ○○○○ soccer_play_pley_go_start
+彼は誰ですか？:○○○ is he?_who_I_You_this
+あれは誰の机ですか？:○○○○ desk is that?_Whose_what_who_when
+この女の子は誰ですか？○○○ girl is this?_who_he_she_you
+あなたは数学と英語どちらが好きですか？○○○○ do you like math or English?_Which_What_When_Who
+あなたの誕生日はいつですか？:○○○○ is your birthday?_When_What_Which_Who
+いつ始めますか？:○○○○ do you start?_When_What_have_like
+

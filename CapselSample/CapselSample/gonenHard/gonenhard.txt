@@ -1,0 +1,57 @@
+私はりんごが好き:I ○○○○ apple_like_love_play_start
+私はりんごが大好き:I ○○○○ apple_love_like_play_start
+私はオレンジが嫌い:I ○○○○ orange_hate_like_love_hete
+私はサッカーをする:I ○○○○ soccer_play_like_love_win
+私は野球が好き:I ○○○○ baseball_like_love_play_go
+私はサッカーで勝つ:I ○○○ soccer_win_lose_pley_wen
+私はテニスをする:I ○○○○ tennis_play_like_love_win
+私は学校に行く:I ○○ to school_go_start_like_show
+私はバッグを買う:I ○○○ bag_buy_send_find_bay
+10私の家を建てる:I ○○○○○ my house_build_keep_mean_bulld
+彼は水泳をする:He ○○○○ swimming_play_go_keep_build
+私はゲームをする:I ○○○○ game_play_go_keep_like
+私はりんごを食べる:I ○○○ apple_eat_eet_go_like
+私はトムです:I ○○ Tom_am_my_me_he
+僕は元気です:I ○○ fine_am_me_my_he
+私は医者です:I ○○ a docter_am_is_me_my
+私はアメリカ出身です:I'm ○○○○ America_from_go_eat_flom
+あなたは背が高いです:You ○○○ tall_are_am_is_he
+私は幸せです:I ○○ happy_am_is_are_an
+20あなたは眠くないです:You ○○○ not sleep_are_am_he_is
+あなたは幸せですか？:Are ○○○ happy_you_am_is_go
+今日は日曜日です:Today ○○ Friday_is_are_this_that
+今日は月曜日です:Today ○○ Monday_is_are_this_that
+今日は火曜日です:Today ○○ Tuesday_is_are_this_that
+今日は水曜日です:Today ○○ Wednesday_is_are_this_that
+今日は木曜日です:Today ○○ Thursday_is_are_this_that
+今日は金曜日です:Today ○○ Friday_is_are_this_that
+今日は土曜日です:Today ○○ Saturday_is_are_this_that
+私はサッカーをすることができます:I can ○○○○ soccer_play_go_from_pley
+30私は英語を話せます:I can ○○○○○ English_speak_go_play_this
+私は学生です:○○ a student_I'm_my_me_you
+私は東京出身です:I am ○○○○ Tokyo_from_need_are_that
+あなたは王様です:You ○○○ king_are_am_is_from
+彼はサッカー選手です:He ○○ a soccer player_is_my_am_are
+彼は有名です:He ○○ famous_is_am_are_from
+私は数学が好きです:I ○○○○ math_like_rike_love_is
+私は数学が好きではありません:I don't ○○○○ math_like_rike_love_is
+これはなんですか？:What ○○ this_is_am_this_play
+あれはなんですか？:What ○○ that_is_am_this_play
+40私はりんごが嫌い:I ○○○○ apple_hate_like_go_love
+私は野球が嫌いです:I ○○○○ baseball_hate_like_hete_is_this
+私はジョンが好きです:I ○○○○ jon_like_love_rike_suki
+彼女は背が高い:She ○○ tall_is_are_am_aer
+これはだれですか？:Who ○○ this?_is_are_you_go
+これはなんですか？:What ○○ this?_is_are_you_go
+あれはなんですか？:What ○○ this?_is_am_are_you
+これはりんごですか？:Is ○○○○ apple?_this_that_are_you
+あれはオレンジです:That ○○ orenge_is_are_this_am
+あれはバナナですか？:Is ○○○○ banana?:that_this_are_like
+あなたはゆきです:You ○○○ yuki_are_am_is_this
+
+
+
+
+
+
+
